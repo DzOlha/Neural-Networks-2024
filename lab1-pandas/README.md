@@ -15,4 +15,4 @@
 завантажувати датасет як посилання
 data = pd.read_csv('https://*****.csv')
 
-**Chosen dataset:** https://www.kaggle.com/datasets/sahirmaharajj/library-services-dataset
+**Chosen dataset:** https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
